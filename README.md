@@ -1,5 +1,5 @@
 # e-hentai-downloader
-Made to batch download images from e-hentai with python
+Made to batch download images from e-hentai galleries with python.
 
 To run this code, you need to have Python on your machine. You may also need to install the additional libraries, which are "requests", "bs4", "os" and "urllib".
 
